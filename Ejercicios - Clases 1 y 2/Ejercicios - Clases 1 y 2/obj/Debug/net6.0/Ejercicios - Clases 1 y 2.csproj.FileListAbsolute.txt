@@ -1,0 +1,15 @@
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\bin\Debug\net6.0\Ejercicios - Clases 1 y 2.exe
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\bin\Debug\net6.0\Ejercicios - Clases 1 y 2.deps.json
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\bin\Debug\net6.0\Ejercicios - Clases 1 y 2.runtimeconfig.json
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\bin\Debug\net6.0\Ejercicios - Clases 1 y 2.dll
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\bin\Debug\net6.0\Ejercicios - Clases 1 y 2.pdb
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\Ejercicios - Clases 1 y 2.csproj.AssemblyReference.cache
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\Ejercicios - Clases 1 y 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\Ejercicios - Clases 1 y 2.AssemblyInfoInputs.cache
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\Ejercicios - Clases 1 y 2.AssemblyInfo.cs
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\Ejercicios - Clases 1 y 2.csproj.CoreCompileInputs.cache
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\Ejercicios - Clases 1 y 2.dll
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\refint\Ejercicios - Clases 1 y 2.dll
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\Ejercicios - Clases 1 y 2.pdb
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\Ejercicios - Clases 1 y 2.genruntimeconfig.cache
+D:\Celeste\devlights\Ejercicios - Clases 1 y 2\Ejercicios - Clases 1 y 2\obj\Debug\net6.0\ref\Ejercicios - Clases 1 y 2.dll
